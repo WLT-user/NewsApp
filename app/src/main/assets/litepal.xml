@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="newsApp"></dbname>
+    <version value="11" ></version>
+    <list>
+        <mapping class="com.demo.viewnews.NewsInfoBean"></mapping>
+        <mapping class="com.demo.viewnews.usermodel.UserInfo"></mapping>
+        <mapping class="com.demo.viewnews.NewsCollectBean"></mapping>
+        <mapping class="com.demo.viewnews.usermodel.Article"></mapping>
+    </list>
+</litepal>
